@@ -26,7 +26,7 @@ To view the website locally, follow these steps:
    cd Personal_Website
 3. **Open the index.html file in your browse**
 
-4. 
+
 ## Technologies Used
 **Frontend:**
 -  HTML
